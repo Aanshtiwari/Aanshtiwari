@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my first repository
 <br>
-Author - Aansh Tiwari
+Author - Aansh Tiwari(coder)
 
 <!--
 **Aanshtiwari/Aanshtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
